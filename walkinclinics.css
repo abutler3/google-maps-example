@@ -1,0 +1,189 @@
+<p><br />
+<style type="text/css">
+
+.nonbranded-menu a, .nonbranded-menu a:visited {
+    display: block !important;
+    padding: 0 !important;
+}
+
+#top_nav_nonbranded 
+{margin: 10px 0 8px 0 !important;}
+
+#searchArea 
+{display:none !important;}
+
+#left_nav_mc
+{margin-top:16px;}
+
+.nonbranded-menu li {
+
+    font-size: 11px;
+}
+
+.side_header {
+    padding: 15px 0px 0px 12px !important;
+}
+
+.side_text {
+    font-size: 18px;
+}
+
+h2#pagetitle {margin: 20px 0 0;}
+
+#sb_footerooter
+{display:none !important;}
+
+#top_nav_nonbranded h1 {float:left; font-size:18px}
+
+.DP-contactus {
+    color: #FFFFFF;
+    display: inline-block;
+    float: right;
+    font-size: 12px;
+    max-width: 60px;
+    text-align: right;
+    width: 100%;
+}
+
+.blurbtext
+{padding:10px !important;background-color:#efefef !important;
+
+border: 1px solid #dddddd;
+
+}
+
+
+.currentPage {
+    background: url("http://www.vanderbilthealth.com/newsite/responsive/images/box_header-highlight.jpg") no-repeat scroll left top #d1a538 !important;
+    display: block;
+    list-style-type: none;
+
+}
+
+.currentPage a {
+    color: #FFFFFF !important;
+    text-decoration: none;
+}
+
+.title-text {
+    color:#7e8e3c;
+    font-size:11px;
+}
+
+td {
+    font-size:12px;
+}
+
+hr {
+    width:95%;
+    height:1px;
+    border-width:0;
+    color:#dedede;
+    background-color:#dedede;
+}
+
+.home-steps-container {max-width:880px;}
+
+.home-steps-block {max-width:195px;float:left;margin-right:25px;}
+
+.home-steps-title {font-size:18px;font-weight:bold;}
+
+.home-steps-text {overflow:hidden;margin-left:0px;}
+
+.home-steps-text a {color:#3985ac !important; font-weight:bold !important;}
+
+.home-steps-text b {font-size:14px; font-weight:bold !important;}
+
+.textspace {margin:3px 0px 3px 0px;}
+
+.picbubble   {border: 1px solid #f0f0f0;border: 1px solid #C4C3BF;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);padding:5px;
+    max-width:80px;
+width:80px;
+ text-align:center;
+margin: 0 auto 10px;
+}
+
+.piccontainer { text-align:center; max-width:110px; width:110px;margin-right:15px; margin-bottom:10px;}
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+.hometext {max-width:400px !important;}
+
+.home-steps-block{max-width:480px;}
+
+}
+
+@media only screen and (min-width: 701px) and (max-width: 767px) {
+
+.guideButtonnew { width: 100%;}
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 659px) {
+
+.guideButtonnew { width: 100%;}
+
+}
+
+@media only screen and (min-width: 640px) and (max-width: 659px) {
+
+.hometext {max-width:360px !important;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+.hometext {max-width:200px !important;}
+.home-steps-block{max-width:380px;}
+ #nonbranded_logo {min-height: 50px !important;}
+
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+#top_nav_nonbranded h1 {padding-left:20px !important;}
+.DP-contactus {padding-right:20px !important;}
+
+#nonbranded_logo {
+    background: url("https://www.vanderbilthealth.com/nonbranded_sites/walkinclinics/images/walkinclinics-small.jpg") no-repeat scroll #007698 !important;
+    display: block;
+    min-height: 45px;}
+
+.side_text {
+    font-size: 15px;
+    font-weight:bold;
+}
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width:769px) {
+
+#nonbranded_logo {min-height: 79px !important;}
+
+}
+
+
+@media only screen and (min-width: 769px) and (max-width:985px) {
+
+.side_text {
+    font-size: 15px;
+}
+
+
+}
+
+
+@media only screen and (min-width: 1024px) and (max-width:1024px) {
+
+#nonbranded_logo {min-height: 105px !important;}
+
+}
+</style>
+</p>
