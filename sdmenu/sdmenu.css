@@ -13,7 +13,6 @@ div.sdmenu div:first-child {
 	background: url(title-bkg.jpg) no-repeat;
 }
 div.sdmenu div.collapsed {
-	height: 57px;
 }
 div.sdmenu div {
     border-style: solid;
